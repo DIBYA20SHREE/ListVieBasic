@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string-array name="ListView">
+        <item>Attend exam</item>
+        <item>Complete your project</item>
+        <item>Placement preparation</item>
+        <item>Walk</item>
+        <item>Attend meeting</item>
+
+    </string-array>
+</resources>
